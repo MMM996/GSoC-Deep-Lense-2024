@@ -1,4 +1,4 @@
-Data can be download from Google Drive using the provided Link. 
+Data can be downloaded from Google Drive using the provided Link. 
 https://drive.google.com/file/d/18-hXjK-p9qZ_E4GISTH6y4pcR7Vi40d_/view?usp=sharing
   
 Data is in zip form. Extract in main directory. Adjust to remove an extra folder layer added when data is extracted. Check Script files and match data paths.
